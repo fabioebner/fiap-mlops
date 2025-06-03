@@ -2,4 +2,4 @@
     autostage = true
 ['remote "origin"']
     url = s3://dvc
-    endpointurl = url-do-dagshub
+    endpointurl = https://dagshub.com/fabioebner/fiap-mlops.s3
